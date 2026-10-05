@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ap-cs-11th"
+assignment: "logcat-escape"
+owner:
+  username: "Khomutov-vladimir"
+  id: 338116684
+  accepted_at: "2026-10-05T12:41:55Z"
+source:
+  owner: "Aloney-Yitzchak"
+  owner_id: 241986476
+  repo: "L01-Logcat-Escape"
+  branch: "master"

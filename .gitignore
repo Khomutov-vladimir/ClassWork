@@ -1,0 +1,28 @@
+
+# Generated files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
+
+# Android Studio
+.idea/
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+
+# Other
+.DS_Store
+/misc.xml
+/deployment.xml
+/build-attribution.dat
+/build-receipt.dat
+
+# Obfuscation
+*.map
